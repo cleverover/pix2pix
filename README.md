@@ -14,4 +14,6 @@ Also it's interesting to check if this model learned to generate a dog photo fro
 
 Bonus: our cGAN converts from black and white pictures to color ones quite well. Train it and use it.
 
+Presentation: https://docs.google.com/presentation/d/1piDVDDQgtvnOvtwL_ms34HroCz6XceRf/edit?usp=sharing&ouid=117592140024416521869&rtpof=true&sd=true
+
 Good luck! 
